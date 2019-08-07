@@ -1,3 +1,4 @@
+##
 progs.patch:
 
 Fixup sources under the apps/ directory that are not built under the android environment.
