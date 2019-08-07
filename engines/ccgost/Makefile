@@ -1,3 +1,4 @@
+##
 DIR=ccgost
 TOP=../..
 CC=cc
